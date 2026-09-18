@@ -1,0 +1,8 @@
+{
+  "ignore": [
+    "storage/**",
+    "published/**",
+    "local_assets_cache/**"
+  ],
+  "ext": "js,html"
+}
